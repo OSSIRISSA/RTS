@@ -1,0 +1,4 @@
+Plan:
+1. Building Barracks pannel
+2. Building Queue
+3. Unit splitting
