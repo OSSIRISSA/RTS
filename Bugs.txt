@@ -1,4 +1,9 @@
-1. 1 builder has already mined resource, but second can mine air = bug.
-2. Day/night cycle
-3. Unit movement
-4. Unit agro
+1. Day/night cycle
+
+2. Unit movement
+
+3. Unit agro
+
+4. Allow builder to mine stone after no wood
+
+5. Building enemies
